@@ -22,3 +22,6 @@ lista.append('Bragantino')
 lista.insert('0,'sport')
 lista.remove('vasco')
 lista.pop(0)
+lista02 = [1,2,5,4]
+lista02.sort(reverse=True)
+print(lista02)
